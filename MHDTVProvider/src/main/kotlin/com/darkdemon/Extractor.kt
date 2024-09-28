@@ -1,4 +1,4 @@
-package com.HindiProviders
+package com.darkdemon
 
 import com.lagradost.api.Log
 import com.lagradost.cloudstream3.SubtitleFile
